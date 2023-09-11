@@ -7,7 +7,7 @@ To install required packages use the below lines of code from CMD
 
 pip install opencv-python
 
-pip install mdeiapipe
+pip install mediapipe
 
 pip install math
 
